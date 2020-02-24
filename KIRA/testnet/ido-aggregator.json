@@ -1,0 +1,52 @@
+{
+"id": "KIRA-IDO-TEST",
+"cache_id": "KIRA-IDO-TEST",
+"prefix": "kira",
+"denom": "ukex",
+"decimals": 6,
+"ticker_quote": "KEX",
+"total_supply": 299792458000000,
+"minting_supply": 149896229000000,
+"offering_props": [{
+	"network": "gaia-13007",
+	"start": 1580060563,
+	"stop": 1680060563,
+	"issuance_min": 0.000001,
+	"issuance_max": 10000000,
+	"ticker_base": "ATOM",
+	"price_base": 4.5,
+	"price_quote": 0.05,
+	"decimals_base": 6,
+	"quote_inflation": 0.00000000015844044,
+	"rate_external": true,
+	"validator": "cosmosvaloper1w2ylyvp8umr95xlj74xe2alza6g6aypz45k90u"
+},
+{
+	"network": "gaia-13007",
+	"start": 1580060563,
+	"stop": 1680060563,
+	"issuance_min": 0.000001,
+	"issuance_max": 10000000,
+	"ticker_base": "ATOM",
+	"price_base": 4.5,
+	"decimals_base": 6,
+	"price_quote": 0.05,
+	"quote_inflation": 0.00000000015844044,
+	"rate_external": true,
+	"validator": "cosmosvaloper19nt5c0tm8am6272cpr082t84205vt979p9nzyx"
+},
+{
+	"network": "gaia-13007",
+	"start": 1580060563,
+	"stop": 1680060563,
+	"issuance_min": 0.000001,
+	"issuance_max": 10000000,
+	"ticker_base": "ATOM",
+	"price_base": 4.5,
+	"decimals_base": 6,
+	"price_quote": 0.05,
+	"quote_inflation": 0.00000000015844044,
+	"rate_external": true,
+	"validator": "cosmosvaloper1epswdwnty5upk4d5g8zxn4ygy5ty5synqfgrym"
+}]
+}

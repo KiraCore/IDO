@@ -1,0 +1,42 @@
+[
+	{
+		"symbol": "BTC",
+		"cryptocompare_id": "BTC",
+		"coinpaprica_id": "btc-bitcoin",
+		"coingecko_id": "bitcoin",
+		"coinmarketcap_id": "Bitcoin",
+		"coincodex_id": "Bitcoin",
+		"price_min": 100,
+		"price_max": 5000000
+	},
+	{
+		"symbol": "ATOM",
+		"cryptocompare_id": "ATOM",
+		"coinpaprica_id": "atom-cosmos",
+		"coingecko_id": "cosmos",
+		"coinmarketcap_id": "Cosmos",
+		"coincodex_id": "Cosmos",
+		"price_min": 0.01,
+		"price_max": 10000
+	},
+	{
+		"symbol": "IRIS",
+		"cryptocompare_id": "IRIS",
+		"coinpaprica_id": "iris-irisnet",
+		"coingecko_id": "iris-network",
+		"coinmarketcap_id": "IRISnet",
+		"coincodex_id": "IRIS Network",
+		"price_min": 0.001,
+		"price_max": 10000
+	},
+	{
+		"symbol": "SENT",
+		"cryptocompare_id": "SENT",
+		"coinpaprica_id": "sent-sentinel",
+		"coingecko_id": "sentinel-group",
+		"coinmarketcap_id": "Sentinel",
+		"coincodex_id": "Sentinel",
+		"price_min": 0.0001,
+		"price_max": 1000
+	}
+]
