@@ -48,5 +48,19 @@
 	"quote_inflation": 0.00000000015844044,
 	"rate_external": true,
 	"validator": "cosmosvaloper1epswdwnty5upk4d5g8zxn4ygy5ty5synqfgrym"
+},
+{
+	"network": "cosmoshub-3",
+	"start": 1580060563,
+	"stop": 1680060563,
+	"issuance_min": 0.000001,
+	"issuance_max": 10000000,
+	"ticker_base": "ATOM",
+	"price_base": 4.5,
+	"decimals_base": 6,
+	"price_quote": 0.05,
+	"quote_inflation": 0.00000000015844044,
+	"rate_external": true,
+	"validator": "cosmosvaloper16qme5yxucnaj6snx35nmwze0wyxr8wfgqxsqfw"
 }]
 }
