@@ -1,0 +1,12 @@
+{
+	"id": "KIRA-IDO-TEST",
+	"network_props": [{
+			"id": "cosmos-mainnet",
+			"prefix": "cosmos",
+			"hosts": [ "https://cosmos-ldc.simply-vc.com.mt", "https://lcd.nylira.net" ],
+			"token": { "denom": "uatom","decimals": 6, "min_balance": 1000000 },
+			"validator_whitelist": [ "cosmosvaloper16qme5yxucnaj6snx35nmwze0wyxr8wfgqxsqfw"]
+		}
+	]
+}
+	

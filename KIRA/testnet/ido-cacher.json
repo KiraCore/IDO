@@ -5,29 +5,17 @@
 			"prefix": "cosmos",
 			"hosts": ["https://cosmos-testnet-ldc.simply-vc.com.mt", "https://lcd.gaia.bigdipper.live"],
 			"token": { "denom": "umuon", "decimals": 6, "min_balance": 1 },
-			"validator_whitelist": [],
-			"validator_blacklist": []
+			"validator_whitelist": [ 
+				"cosmosvaloper1w2ylyvp8umr95xlj74xe2alza6g6aypz45k90u",
+				"cosmosvaloper19nt5c0tm8am6272cpr082t84205vt979p9nzyx",
+				"cosmosvaloper1epswdwnty5upk4d5g8zxn4ygy5ty5synqfgrym"
+			 ]
 		},{
 			"id": "cosmos-mainnet",
 			"prefix": "cosmos",
 			"hosts": [ "https://cosmos-ldc.simply-vc.com.mt", "https://lcd.nylira.net" ],
 			"token": { "denom": "uatom","decimals": 6, "min_balance": 1000000 },
-			"validator_whitelist": [],
-			"validator_blacklist": []
-		},{
-			"id": "sent-testnet",
-			"prefix": "cosmos",
-			"hosts": ["https://lcd.turing.dragonstake.io"],
-			"token": { "denom": "tsent","decimals": 0, "min_balance": 1 },
-			"validator_whitelist": [],
-			"validator_blacklist": []
-		},{
-			"id": "iris-testnet",
-			"prefix": "faa",
-			"hosts": ["https://lcd.testnet.irisnet.org"],
-			"token": { "denom": "iris-atto","decimals": 18, "min_balance": 1000000000 },
-			"validator_whitelist": [],
-			"validator_blacklist": []
+			"validator_whitelist": ["cosmosvaloper16qme5yxucnaj6snx35nmwze0wyxr8wfgqxsqfw" ]
 		}
 	]
 }
