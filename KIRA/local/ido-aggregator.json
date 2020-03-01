@@ -7,11 +7,13 @@
 "ticker_quote": "KEX",
 "total_supply": 299792458000000,
 "minting_supply": 149896229000000,
+"soft_cap": 1500000,
+"hard_cap": 7500000,
 "offering_props": [
 {
 	"network": "cosmoshub-3",
 	"start": 1580060563,
-	"stop": 1680060563,
+	"stop": 9580060563,
 	"issuance_min": 0.000001,
 	"issuance_max": 10000000,
 	"ticker_base": "ATOM",
