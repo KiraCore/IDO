@@ -9,6 +9,7 @@
 "minting_supply": 149896229000000,
 "soft_cap": 1500000,
 "hard_cap": 7500000,
+"soft_cap_timeout": 126230400,
 "offering_props": [{
 	"network": "gaia-13007",
 	"start": 1580060563,
