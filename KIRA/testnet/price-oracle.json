@@ -1,6 +1,7 @@
 [
 	{
 		"symbol": "BTC",
+		"icon": "https://oracle.kiracore.com/img/btc.svg",
 		"cryptocompare_id": "BTC",
 		"coinpaprica_id": "btc-bitcoin",
 		"coingecko_id": "bitcoin",
@@ -11,6 +12,7 @@
 	},
 	{
 		"symbol": "ATOM",
+		"icon": "https://oracle.kiracore.com/img/atom.svg",
 		"cryptocompare_id": "ATOM",
 		"coinpaprica_id": "atom-cosmos",
 		"coingecko_id": "cosmos",
@@ -21,6 +23,7 @@
 	},
 	{
 		"symbol": "IRIS",
+		"icon": "https://oracle.kiracore.com/img/iris.svg",
 		"cryptocompare_id": "IRIS",
 		"coinpaprica_id": "iris-irisnet",
 		"coingecko_id": "iris-network",
@@ -32,11 +35,56 @@
 	{
 		"symbol": "SENT",
 		"cryptocompare_id": "SENT",
+		"icon": "https://oracle.kiracore.com/img/sent.svg",
 		"coinpaprica_id": "sent-sentinel",
 		"coingecko_id": "sentinel-group",
 		"coinmarketcap_id": "Sentinel",
 		"coincodex_id": "Sentinel",
 		"price_min": 0.0001,
 		"price_max": 1000
+	},
+	{
+		"symbol": "KAVA",
+		"icon": "https://oracle.kiracore.com/img/kava.svg",
+		"cryptocompare_id": "KAVA",
+		"coinpaprica_id": "kava-kava",
+		"coingecko_id": "kava",
+		"coinmarketcap_id": "Kava",
+		"coincodex_id": "Kava",
+		"price_min": 0.001,
+		"price_max": 5000
+	},
+	{
+		"symbol": "KSM",
+		"icon": "https://oracle.kiracore.com/img/ksm.svg",
+		"cryptocompare_id": "KSM",
+		"coinpaprica_id": "",
+		"coingecko_id": "kusama",
+		"coinmarketcap_id": "Kusama",
+		"coincodex_id": "Kusama",
+		"price_min": 0.01,
+		"price_max": 5000
+	},
+	{
+		"symbol": "ETH",
+		"icon": "https://oracle.kiracore.com/img/eth.svg",
+		"cryptocompare_id": "ETH",
+		"coinpaprica_id": "eth-ethereum",
+		"coingecko_id": "ethereum",
+		"coinmarketcap_id": "Ethereum",
+		"coincodex_id": "Ethereum",
+		"price_min": 0.01,
+		"price_max": 50000
+	},
+	{
+		"symbol": "XTZ",
+		"icon": "https://oracle.kiracore.com/img/xtz.svg",
+		"cryptocompare_id": "XTZ",
+		"coinpaprica_id": "xtz-tezos",
+		"coingecko_id": "tezos",
+		"coinmarketcap_id": "Tezos",
+		"coincodex_id": "Tezos",
+		"price_min": 0.01,
+		"price_max": 5000
 	}
 ]
